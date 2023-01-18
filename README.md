@@ -1,4 +1,4 @@
-# Cousera_-scripting-with-python-sql-for-data-engineering-duke
+# Cousera Course: Scripting with Python and SQL for Data Engineering
 Exercises from Coursera Course: Scripting with Python and SQL for Data Engineering
 
 Elements at this repository:
